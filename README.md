@@ -1,7 +1,7 @@
 <h3 align="left">Hola, soy Óscar, un programador backend con conocimientos sobre sistemas.</h3>
 
 <h3 align="left">Contactar conmigo:</h3>
-- osvelaza@gmail.com
+- osvelaza@gmail.com<br>
 - [Blog]([https://github.com/osvelaza/P4-RebelionEnLaGranja](https://codigoyterminal.blogspot.com/)): un blog con temática informática
 
 <h3 align="left">Me usado las siguientes tecnologías</h3>
