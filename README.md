@@ -11,4 +11,6 @@
 
   
 [Automatización coordenadas](https://github.com/osvelaza/automaticCoordinate): un proyecto de prácticas para ayudar a limpiar la base de datos.
+
+  
 [Blog](https://codigoyterminal.blogspot.com/): un blog con temática informática
