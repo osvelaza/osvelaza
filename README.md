@@ -1,9 +1,10 @@
 <h3 align="left">Hola, soy Óscar, un programador backend con conocimientos sobre sistemas.</h3>
 
 <h3 align="left">Contactar conmigo:</h3>
+
+<p align="left">
 - osvelaza@gmail.com
 + test
-<p align="left">
 </p>
 
 <h3 align="left">Me usado las siguientes tecnologías</h3>
